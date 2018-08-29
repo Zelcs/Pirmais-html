@@ -1,0 +1,64 @@
+body {
+    background-color: #FFFF99;
+    font-family: 'Dosis', sans-serif;
+    color: #006BB2;
+}
+.spacing {
+    line-height: 2.6;
+    margin: 50px 250px;
+    font-size: 30px;
+    text-align: center;
+}
+.jaunumi-teksts {
+     line-height: 2.6;
+     margin: 50px 250px;
+     font-size: 20px;
+     text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.tradiciju-liste li {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 26px;
+}
+nav {
+    background-color: #E5E592;
+    font-size: 30px;
+}
+h1 {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    font-size: 46px;
+    margin: 50px 50px;
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+ul {
+    list-style-type: none;
+    margin: auto;
+    width: 1100px;
+}
+ul li {
+    display: inline;
+    margin: 20px 40px 20px 40px;
+}
+hr {
+    border-style: inset;
+    border-color: black;
+    border-width: 2px;
+}
+.about-teksts {
+    line-height: 2.6;
+    margin: 10px 50px;
+    font-size: 20px;
+    text-align: center;
+}
